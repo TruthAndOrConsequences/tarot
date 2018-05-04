@@ -65,6 +65,7 @@
           "after": true
         }
       ],
+      
       "semi": ["error", "never"],
       "prefer-const": ["error", {
         "destructuring": "any",
