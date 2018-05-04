@@ -1,0 +1,21 @@
+{
+    "name": "berlin-tarot",
+    "scripts": {
+    },
+    "env": {
+      "NPM_CONFIG_PRODUCTION": {
+        "required": true
+      },
+      "KOA_API_URL": {
+        "required": true
+      }
+    },
+    "formation": {
+    },
+    "addons": [
+  
+    ],
+    "buildpacks": [
+  
+    ]
+  }
