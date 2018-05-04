@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "build": "nwb build-react-app",
+    "heroku-postbuild": "yarn build",
     "clean": "nwb clean-app",
     "start": "node server.js",
     "dev": "nwb serve-react-app",
